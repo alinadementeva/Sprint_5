@@ -1,0 +1,7 @@
+Список локаторов:
+1) .//span[contains(text(),'Начинки')] - вкладка "Начинки"
+2) .//span[contains(text(),'Булки')] - вкладка "Булки"
+3) html/body/div/div/main/section[@class='BurgerIngredients_ingredients__1N8v2']/div/div/span[text()='Булки'] - абсолютный путь до вкладки "Булки"
+4) .//span[contains(text(),'Соусы')] - вкладка "Соусы"
+5) .//button[text()='Войти в аккаунт'] - кнопка "Войти в аккаунт"
+6) ".//label[text()='Email']/following-sibling::input" - поле ввода email
